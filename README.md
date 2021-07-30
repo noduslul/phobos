@@ -1,2 +1,2 @@
 # celestial
-shit ui library using drawlib
+shit ui library
